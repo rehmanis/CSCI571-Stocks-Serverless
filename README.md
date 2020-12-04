@@ -2,7 +2,7 @@
 
 
 ## HW9 endpoints for API are as follows:
-* [News API for search query Paypal: ][NEWS]
+* [News API for search query Paypal][NEWS]
 * [Stock Price API for search query MSFT][Price]
 * [Stock historical chart query for AAPL][Chart]
 * [Search API for query work][Search]
